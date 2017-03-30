@@ -145,7 +145,7 @@ Any contravention of the _Ontario Human Rights Code (R.S.O. 1990, c. H.19)_ by a
 ## Recourse
 Members may seek remedy to Policy violations using the following recommended chain of action:
 1. If it is appropriate, the member should tell the person whom is acting in an unacceptable manner that it is offensive and request that they immediately stop.
-2. If (a) is inappropriate to address directly or if the issue cannot be resolved to satisfaction, then the member should advise an Officer or Director of HackLab forthwith.
+2. If it is inappropriate to address directly or if the issue cannot be resolved to satisfaction, then the member should advise an Officer or Director of HackLab forthwith.
 3. The member will be asked to prepare a written complaint, outlining the nature of the allegations and any important details or facts; including the name(s) of the alleged harasser(s)/aggressor(s), any witnesses present, date(s) and locations of the incident(s).  This complaint is to be submitted to the Board of Directors by common means such by email to board@hacklab.to.
 4. Upon receipt of the complaint, the Board, in accordance with this Policy will begin an immediate investigation or convene a committee by random selection should the situation warrant it.
 5. The Board or Committee will exercise its discretion as to whether an internal investigation is warranted and to determine the scope of the investigation.
@@ -206,7 +206,7 @@ _The Anti-Harassment Policy is a powerful and broad policy designed to protect i
 
 ## Document History
 | Revision | Date | Author | Comment |
-| --- | --- | --- | --- | --- |
+| -------- | ---- | ------ | ------- |
 | 2.2017.0 | 16-Jan-2017 | Daria Juniper @juniberry | Initial draft of newly improvised Anti-Harassment Policy. |
 | 2.2017.1 | 17-Jan-2017 | Daria Juniper @juniberry | Member consultations and minor document revisions. |
 | 2.2017.2 | 21-Jan-2017 | Daria Juniper @juniberry | Member consultation revisions – Post Diversity/AHP Meeting. |
