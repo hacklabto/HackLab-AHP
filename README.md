@@ -24,20 +24,20 @@
 
 ## Definitions
 | Term   | Definition |
-|:------ |:------ |
+|:--- |:--- |
 | HackLab (“HackLab Club Toronto”) | Hacklab Club Toronto Inc.  A makerspace and Not-For-Profit Ontario corporation. |
 | Policy (“the Policy”) | The Anti-Harassment Policy, HackLab Club Toronto Inc. This document and policy. |
-| Prohibited Ground(s) | The following are considered prohibited grounds
-+ Age
-+ Familial Status
-+ Racial Background
-+ Marital Status
-+ Sex and Sexual Orientation
-+ Gender, Gender Expression and Gender Identity
-+ Religion, Spiritual and Religious Beliefs
-+ Pardoned Conviction(s)
-+ National and Ethnic Origin
-+ Mental and Physical Disability
+| Prohibited Ground(s) | The following are considered prohibited grounds  
++ Age  
++ Familial Status  
++ Racial Background  
++ Marital Status  
++ Sex and Sexual Orientation  
++ Gender, Gender Expression and Gender Identity  
++ Religion, Spiritual and Religious Beliefs  
++ Pardoned Conviction(s)  
++ National and Ethnic Origin  
++ Mental and Physical Disability  
 + Political Affiliation |
 | Community Standards | Community standards are a set of local norms bounding acceptable conduct of a community and/or society.  While these norms may be itemized into a list there are sometimes behaviours and manners of conduct which escape itemization though still deemed to be unacceptable, inappropriate and/or damaging to an individual and/or their community.  The conduct and behaviour of a person should fall within the commonly accepted conventions of their community and/or society.  A common test of community standards can be said to be "I'll know it when I see it.". |
 | Member | A member is defined as any member of HackLab Club Toronto in good standing. |
