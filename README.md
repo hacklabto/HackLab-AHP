@@ -43,7 +43,7 @@ The Anti-Harassment Policy, HackLab Club Toronto Inc. This document and policy.
 + Political Affiliation
 
 **Community Standards**  
-Community standards are a set of local norms bounding acceptable conduct of a community and/or society.  While these norms may be itemized into a list there are sometimes behaviours and manners of conduct which escape itemization though still deemed to be unacceptable, inappropriate and/or damaging to an individual and/or their community.  The conduct and behaviour of a person should fall within the commonly accepted conventions of their community and/or society.  A common test of community standards can be said to be "I'll know it when I see it.".  
+   Community standards are a set of local norms bounding acceptable conduct of a community and/or society.  While these norms may be itemized into a list there are sometimes behaviours and manners of conduct which escape itemization though still deemed to be unacceptable, inappropriate and/or damaging to an individual and/or their community.  The conduct and behaviour of a person should fall within the commonly accepted conventions of their community and/or society.  A common test of community standards can be said to be "I'll know it when I see it.".  
 
 **Member**  
 A member is defined as any member of HackLab Club Toronto in good standing.  
@@ -73,7 +73,7 @@ Peace Officer; Police. Example: Toronto Police Service; 911.
 + This policy ensures that Human Rights are observed, respected and enforced in a just manner with education and understanding.
 
 ## Notwithstanding
-This Policy was not designed to suppress discussion or inhibit people from speaking honestly.  Nor is it designed to foster an environment where one feels they are “walking on eggshells” with everyday conversation and/or interaction.  People should feel free to have conversation, discussion and discourse as well as civil arguments about difficult and charged subject matter.  
+   This Policy was not designed to suppress discussion or inhibit people from speaking honestly.  Nor is it designed to foster an environment where one feels they are “walking on eggshells” with everyday conversation and/or interaction.  People should feel free to have conversation, discussion and discourse as well as civil arguments about difficult and charged subject matter.  
 
 At times these charged discussions can take a turn into disrespectful name-calling and/or strong language; situations which fall within that context do not as a rule constitute harassment but are an unfortunate result of passionate disagreement.  In those situations, allow cooler heads to prevail and use methods of informal resolution as outlined in the Preamble section of this Policy.  
 
@@ -106,7 +106,7 @@ This Policy shall not be used as a means to silence dissent, discussion or the v
 3. The Board is responsible for overseeing the proper and timely execution of this Policy as well as providing guidance.
 
 ## Human Rights
-Any contravention of the _Ontario Human Rights Code (R.S.O. 1990, c. H.19)_ by a guest or member towards another guest or member shall be deemed to be a violation of the Policy.
+   Any contravention of the _Ontario Human Rights Code (R.S.O. 1990, c. H.19)_ by a guest or member towards another guest or member shall be deemed to be a violation of the Policy.
 
 ## Harassment, Common and Sexual
 1. No member or guest shall engage in conduct referred to in subsection (2) as well any conduct or behaviour that causes another person reasonably, to fear for their safety or the safety of anyone known to them.
@@ -143,7 +143,7 @@ Any contravention of the _Ontario Human Rights Code (R.S.O. 1990, c. H.19)_ by a
 2. Anyone failing to vacate the HackLab premises upon instruction to do so over alleged or real violations of this Policy, will be considered in Trespass (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_).  In the unlikely event of this situation it is encouraged to contact a Peace Officer to attend and have the individual removed from the premises.  Additionally, please contact a Board member directly in person or by phone for assistance.
 
 ## Recourse
-Members may seek remedy to Policy violations using the following recommended chain of action:
+   Members may seek remedy to Policy violations using the following recommended chain of action:
 1. If it is appropriate, the member should tell the person whom is acting in an unacceptable manner that it is offensive and request that they immediately stop.
 2. If it is inappropriate to address directly or if the issue cannot be resolved to satisfaction, then the member should advise an Officer or Director of HackLab forthwith.
 3. The member will be asked to prepare a written complaint, outlining the nature of the allegations and any important details or facts; including the name(s) of the alleged harasser(s)/aggressor(s), any witnesses present, date(s) and locations of the incident(s).  This complaint is to be submitted to the Board of Directors by common means such by email to board@hacklab.to.
@@ -179,14 +179,14 @@ Members may seek remedy to Policy violations using the following recommended cha
 5. If a committee was appointed to resolve a violation it will investigate and communicate their findings and recommendations to the Board in a timely fashion.
 
 ## Misuse of Anti-Harassment Policy
-_The Anti-Harassment Policy is a powerful and broad policy designed to protect individual rights, dignity, safety and security of person.  Due to the wide reaching scope of the Policy and the open and diverse nature of the HackLab membership base, it is important to stress that peaceful resolution be reached in a civil manner befitting community standards.  Abuse of process damages the community and does a disservice to those who have been legitimately wronged and harmed._
+   _The Anti-Harassment Policy is a powerful and broad policy designed to protect individual rights, dignity, safety and security of person.  Due to the wide reaching scope of the Policy and the open and diverse nature of the HackLab membership base, it is important to stress that peaceful resolution be reached in a civil manner befitting community standards.  Abuse of process damages the community and does a disservice to those who have been legitimately wronged and harmed._
 1. The Policy must not be used as a means to censor or silence civil discourse and/or discussion so long as community standards are observed.
 2. Except under extraordinary circumstances to be determined by community standards, the goal of resulting remediation and disciplinary action should be focused on education, communication and understanding; notwithstanding gross violations of the Policy.
 3. Obvious abuse of this Policy in and of itself shall be considered harassment and thusly any member found to be abusing the Policy shall be deemed in violation of the Policy.  Determination of Policy abuse shall be determined by Board or member committee consensus.
 
 ## Violation of the Anti-Harassment Policy
 1. An alleged violator of the Policy may have their membership and/or access to the Hacklab administratively suspended by the Board until such time as an investigation and/or remedy can be rendered.
-2. Members found in violation of this Policy can be subject to any number of disciplinary and/or remedial actions including but not limited to
+2. Members found in violation of this Policy can be subject to any number of disciplinary and/or remedial actions including but not limited to:
   1. Be required to write a formal apology to the victim(s) of the violation.
   2. A third-party mediator may be appointed at the Board’s discretion to resolve the dispute through arbitration.
   3. Be required to cease and desist all current and future communication and interaction with the victim(s) of the violation.
