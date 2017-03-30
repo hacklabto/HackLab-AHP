@@ -207,8 +207,8 @@ _The Anti-Harassment Policy is a powerful and broad policy designed to protect i
 ## Document History
 | Revision | Date | Author | Comment |
 | -------- | ---- | ------ | ------- |
-| 2.2017.0 | 16-Jan-2017 | Daria Juniper @juniberry | Initial draft of newly improvised Anti-Harassment Policy. |
-| 2.2017.1 | 17-Jan-2017 | Daria Juniper @juniberry | Member consultations and minor document revisions. |
-| 2.2017.2 | 21-Jan-2017 | Daria Juniper @juniberry | Member consultation revisions – Post Diversity/AHP Meeting. |
-| 2.2017.3 | 30-Mar-2017 | Daria Juniper @juniberry | Document Reformatted for and replaced by Readme.md @ GitHub |
+| 2.2017.0 | 16-Jan-2017 | Daria Juniper [@juniberry](https://github.com/juniberry) | Initial draft of newly improvised Anti-Harassment Policy. |
+| 2.2017.1 | 17-Jan-2017 | Daria Juniper [@juniberry](https://github.com/juniberry) | Member consultations and minor document revisions. |
+| 2.2017.2 | 21-Jan-2017 | Daria Juniper [@juniberry](https://github.com/juniberry) | Member consultation revisions – Post Diversity/AHP Meeting. |
+| 2.2017.3 | 30-Mar-2017 | Daria Juniper [@juniberry](https://github.com/juniberry) | Document Reformatted for and replaced by Readme.md @ GitHub |
 
