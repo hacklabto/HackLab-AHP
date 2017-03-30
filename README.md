@@ -23,11 +23,11 @@
 + [HackLab Club Toronto – Diversity Statement](https://github.com/hacklabto/HackLabTO-Diversity-Statement)
 
 ## Terms and Definitions
-**HackLab (“HackLab Club Toronto”)**
-Hacklab Club Toronto Inc.  A makerspace and Not-For-Profit Ontario corporation.
-**Policy (“the Policy”)**
-The Anti-Harassment Policy, HackLab Club Toronto Inc. This document and policy.
-**Prohibited Ground(s)**
+**HackLab (“HackLab Club Toronto”)**  
+Hacklab Club Toronto Inc.  A makerspace and Not-For-Profit Ontario corporation.  
+**Policy (“the Policy”)**  
+The Anti-Harassment Policy, HackLab Club Toronto Inc. This document and policy.  
+**Prohibited Ground(s)**  
 The following are considered prohibited grounds:  
 + Age
 + Familial Status
@@ -40,18 +40,18 @@ The following are considered prohibited grounds:
 + National and Ethnic Origin
 + Mental and Physical Disability
 + Political Affiliation
-**Community Standards**
-Community standards are a set of local norms bounding acceptable conduct of a community and/or society.  While these norms may be itemized into a list there are sometimes behaviours and manners of conduct which escape itemization though still deemed to be unacceptable, inappropriate and/or damaging to an individual and/or their community.  The conduct and behaviour of a person should fall within the commonly accepted conventions of their community and/or society.  A common test of community standards can be said to be "I'll know it when I see it.".
-**Member**
-A member is defined as any member of HackLab Club Toronto in good standing.
-**Guest**
-Any visitor of HackLab; a person who is not a member of HackLab Club Toronto Inc.
-**Random Selection**
-A non-bias method of randomly selecting members.  One such proposed method is to select, in order, member entry from the premises entry logs (door log).
-**Community**
-Fellowship with others, as a result of sharing common attitudes, interests, and goals.  The membership base of the HackLab Club Toronto Inc.
-*The Board (“Board of Directors”)**
-The Board of Directors of HackLab Club Toronto Inc.
-*Peace Officer**
-Peace Officer; Police. Example: Toronto Police Service; 911.
+**Community Standards**  
+Community standards are a set of local norms bounding acceptable conduct of a community and/or society.  While these norms may be itemized into a list there are sometimes behaviours and manners of conduct which escape itemization though still deemed to be unacceptable, inappropriate and/or damaging to an individual and/or their community.  The conduct and behaviour of a person should fall within the commonly accepted conventions of their community and/or society.  A common test of community standards can be said to be "I'll know it when I see it.".  
+**Member**  
+A member is defined as any member of HackLab Club Toronto in good standing.  
+**Guest**  
+Any visitor of HackLab; a person who is not a member of HackLab Club Toronto Inc.  
+**Random Selection**  
+A non-bias method of randomly selecting members.  One such proposed method is to select, in order, member entry from the premises entry logs (door log).  
+**Community**  
+Fellowship with others, as a result of sharing common attitudes, interests, and goals.  The membership base of the HackLab Club Toronto Inc.  
+**The Board (“Board of Directors”)**  
+The Board of Directors of HackLab Club Toronto Inc.  
+**Peace Officer**  
+Peace Officer; Police. Example: Toronto Police Service; 911.  
 
