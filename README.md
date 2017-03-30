@@ -111,35 +111,35 @@ This Policy shall not be used as a means to silence dissent, discussion or the v
 ## Harassment, Common and Sexual
 1. No member or guest shall engage in conduct referred to in subsection (2) as well any conduct or behaviour that causes another person reasonably, to fear for their safety or the safety of anyone known to them.
 2. Prohibited Conduct is defined as
-  1. “Criminal Harassment” as defined in the _Criminal Code (R.S.C., 1985, c. C-46)_;
-  2. “Sexual Harassment” as defined in the _Ontario Human (Rights Code, R.S.O. 1990, c. H.19)_;
-  3. “Sexual Harassment” as defined in the _Canada Labour Code (R.S.C., 1985, c. L-2)_;
-  4. Any conduct, comment, gesture or contact based on any of the prohibited grounds;
-  5. Any conduct that is reasonably and likely to cause offence and/or humiliation to any member or guest;
-  6. Conduct known or ought to have reasonably been known that the behaviour in question was unwelcome or inappropriate;
-  7. Unwanted and/or unauthorized intrusion into personal items or computer system(s);
-  8. Unwanted and/or unwelcomed remarks, jokes, taunts pertaining to prohibited ground(s).
+  * “Criminal Harassment” as defined in the _Criminal Code (R.S.C., 1985, c. C-46)_;
+  * “Sexual Harassment” as defined in the _Ontario Human (Rights Code, R.S.O. 1990, c. H.19)_;
+  * “Sexual Harassment” as defined in the _Canada Labour Code (R.S.C., 1985, c. L-2)_;
+  * Any conduct, comment, gesture or contact based on any of the prohibited grounds;
+  * Any conduct that is reasonably and likely to cause offence and/or humiliation to any member or guest;
+  * Conduct known or ought to have reasonably been known that the behaviour in question was unwelcome or inappropriate;
+  * Unwanted and/or unauthorized intrusion into personal items or computer system(s);
+  * Unwanted and/or unwelcomed remarks, jokes, taunts pertaining to prohibited ground(s).
 3. Persons found to have committed harassment under this section to a member or guest of the HackLab are subject to disciplinary and/or remedial action as outlined in this policy.
 4. This section applies to all members and guests of the HackLab irrespective of the location of incident.
 
 ## Assault, Common and Sexual
 1. No member or guest shall commit assault as defined in subsection (2) or threaten to commit assault against a member or guest of HackLab.
 2. Assault is defined as
-  1. “Assault” as defined in the _Criminal Code (R.S.C., 1985, c. C-46)_;
-  2. “Sexual assault” as defined in the _Criminal Code (R.S.C., 1985, c. C-46)_;
-  3. Unwelcome and/or uninvited physical contact direct or otherwise;
-  4. Threats of violence or reprisal;
-  5. Gestures or movements which would be reasonably be perceived as threatening;
-  6. Physical intimidation, posture and/or behaviour that is expected to reasonably cause the person to fear for their safety and/or security of person.
+  * "Assault" as defined in the _Criminal Code (R.S.C., 1985, c. C-46)_;
+  * "Sexual assault" as defined in the _Criminal Code (R.S.C., 1985, c. C-46)_;
+  * Unwelcome and/or uninvited physical contact direct or otherwise;
+  * Threats of violence or reprisal;
+  * Gestures or movements which would be reasonably be perceived as threatening;
+  * Physical intimidation, posture and/or behaviour that is expected to reasonably cause the person to fear for their safety and/or security of person.
 3. Persons found to have committed assault under this section to a member or guest of the HackLab are subject to disciplinary and/or remedial action as outlined in this policy.
 4. This section applies to all members and guests of the HackLab irrespective of the location of incident.
 
 ## Immediate Intervention
 1. Members of the HackLab are empowered and permitted, as agents of the HackLab to legally remove anyone from premises under the following circumstances
-  1. They believe a severe situation warrants the removal of the person in question; or
-  2. They believe the removal of the person is required to diffuse a severe situation and/or to prevent a violation of this policy; or
-  3. They have witnessed or believe in reasonable and good faith to have witnessed the person in violation of this policy; or
-  4. They have been harassed and/or assaulted by the person in contravention of this policy.
+  * They believe a severe situation warrants the removal of the person in question; or
+  * They believe the removal of the person is required to diffuse a severe situation and/or to prevent a violation of this policy; or
+  * They have witnessed or believe in reasonable and good faith to have witnessed the person in violation of this policy; or
+  * They have been harassed and/or assaulted by the person in contravention of this policy.
 2. Anyone failing to vacate the HackLab premises upon instruction to do so over alleged or real violations of this Policy, will be considered in Trespass (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_).  In the unlikely event of this situation it is encouraged to contact a Peace Officer to attend and have the individual removed from the premises.  Additionally, please contact a Board member directly in person or by phone for assistance.
 
 ## Recourse
@@ -187,20 +187,20 @@ This Policy shall not be used as a means to silence dissent, discussion or the v
 ## Violation of the Anti-Harassment Policy
 1. An alleged violator of the Policy may have their membership and/or access to the Hacklab administratively suspended by the Board until such time as an investigation and/or remedy can be rendered.
 2. Members found in violation of this Policy can be subject to any number of disciplinary and/or remedial actions including but not limited to:
-  - Be required to write a formal apology to the victim(s) of the violation.
-  - A third-party mediator may be appointed at the Board’s discretion to resolve the dispute through arbitration.
-  - Be required to cease and desist all current and future communication and interaction with the victim(s) of the violation.
-  - Be required to undertake _Ontario Human Rights 101 e-Learning_ in cases where a Human Rights contravention has occurred.
-  - Be required to undertake in cases where a Human Rights contravention has occurred.
-  - Probation of Membership, with a term to be decided by Board majority or member committee recommendation.
-  - Suspension of Membership, with a term to be decided by Board majority or member committee recommendation.
-  - Termination of Membership, with immediate effect.
-  - Barred from any and all HackLab premises (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_) permanently or for a term to be determined by Board or member committee recommendation.
+  * Be required to write a formal apology to the victim(s) of the violation.
+  * A third-party mediator may be appointed at the Board’s discretion to resolve the dispute through arbitration.
+  * Be required to cease and desist all current and future communication and interaction with the victim(s) of the violation.
+  * Be required to undertake _Ontario Human Rights 101 e-Learning_ in cases where a Human Rights contravention has occurred.
+  * Be required to undertake in cases where a Human Rights contravention has occurred.
+  * Probation of Membership, with a term to be decided by Board majority or member committee recommendation.
+  * Suspension of Membership, with a term to be decided by Board majority or member committee recommendation.
+  * Termination of Membership, with immediate effect.
+  * Barred from any and all HackLab premises (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_) permanently or for a term to be determined by Board or member committee recommendation.
 3. Guests found in violation of this Policy can be subject to any number of disciplinary and/or remedial actions including but not limited to
-  - Be required to write a formal apology to the victim(s) of the violation.
-  - Be required to cease and desist all current and future communication(s) and interaction with the victim(s) of the violation.
-  - Be required to undertake _Ontario Human Rights 101 e-Learning_ in cases where a Human Rights contravention has occurred.
-  - Barred from the HackLab premises (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_) permanently or for a term to be determined by Board or member committee recommendation.
+  * Be required to write a formal apology to the victim(s) of the violation.
+  * Be required to cease and desist all current and future communication(s) and interaction with the victim(s) of the violation.
+  * Be required to undertake _Ontario Human Rights 101 e-Learning_ in cases where a Human Rights contravention has occurred.
+  * Barred from the HackLab premises (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_) permanently or for a term to be determined by Board or member committee recommendation.
 4. Where a remedy has been imposed upon a person requiring them to carry out an action, they may be barred from the HackLab premises until they have carried out the required actions to the determining bodies’ satisfaction.
 5. Any and all remediation and/or disciplinary actions will be discussed with the victim(s) prior to being imposed.  The focus of this requirement is to ensure that the victim(s) is/are included in the remedial phase and to ensure that proper scope and impact of the violation are taken into account.
 
