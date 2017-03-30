@@ -185,3 +185,30 @@ _The Anti-Harassment Policy is a powerful and broad policy designed to protect i
 3. Obvious abuse of this Policy in and of itself shall be considered harassment and thusly any member found to be abusing the Policy shall be deemed in violation of the Policy.  Determination of Policy abuse shall be determined by Board or member committee consensus.
 
 ## Violation of the Anti-Harassment Policy
+1. An alleged violator of the Policy may have their membership and/or access to the Hacklab administratively suspended by the Board until such time as an investigation and/or remedy can be rendered.
+2. Members found in violation of this Policy can be subject to any number of disciplinary and/or remedial actions including but not limited to
+  1. Be required to write a formal apology to the victim(s) of the violation.
+  2. A third-party mediator may be appointed at the Board’s discretion to resolve the dispute through arbitration.
+  3. Be required to cease and desist all current and future communication and interaction with the victim(s) of the violation.
+  4. Be required to undertake _Ontario Human Rights 101 e-Learning_ in cases where a Human Rights contravention has occurred.
+  5. Be required to undertake in cases where a Human Rights contravention has occurred.
+  6. Probation of Membership, with a term to be decided by Board majority or member committee recommendation.
+  7. Suspension of Membership, with a term to be decided by Board majority or member committee recommendation.
+  8. Termination of Membership, with immediate effect.
+  9. Barred from any and all HackLab premises (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_) permanently or for a term to be determined by Board or member committee recommendation.
+3. Guests found in violation of this Policy can be subject to any number of disciplinary and/or remedial actions including but not limited to
+  1. Be required to write a formal apology to the victim(s) of the violation.
+  2. Be required to cease and desist all current and future communication(s) and interaction with the victim(s) of the violation.
+  3. Be required to undertake _Ontario Human Rights 101 e-Learning_ in cases where a Human Rights contravention has occurred.
+  4. Barred from the HackLab premises (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_) permanently or for a term to be determined by Board or member committee recommendation.
+4. Where a remedy has been imposed upon a person requiring them to carry out an action, they may be barred from the HackLab premises until they have carried out the required actions to the determining bodies’ satisfaction.
+5. Any and all remediation and/or disciplinary actions will be discussed with the victim(s) prior to being imposed.  The focus of this requirement is to ensure that the victim(s) is/are included in the remedial phase and to ensure that proper scope and impact of the violation are taken into account.
+
+## Document History
+| Revision | Date | Author | Comment |
+| --- | --- | --- | --- | --- |
+| 2.2017.0 | 16-Jan-2017 | Daria Juniper @juniberry | Initial draft of newly improvised Anti-Harassment Policy. |
+| 2.2017.1 | 17-Jan-2017 | Daria Juniper @juniberry | Member consultations and minor document revisions. |
+| 2.2017.2 | 21-Jan-2017 | Daria Juniper @juniberry | Member consultation revisions – Post Diversity/AHP Meeting. |
+| 2.2017.3 | 30-Mar-2017 | Daria Juniper @juniberry | Document Reformatted for and replaced by Readme.md @ GitHub |
+
