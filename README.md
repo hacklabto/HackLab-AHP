@@ -91,6 +91,7 @@ This Policy shall not be used as a means to silence dissent, discussion or the v
  - Listen carefully and patiently; be non-judgmental.
  - Resist letting your own emotions, past experience or the reputation of any party influence your objectivity.
  - Resist the temptation to solve the problem impulsively or to make rash decisions; let cooler heads prevail.
+ 
 + In the vast majority of cases, using informal resolution such as dialogue or mediation by another HackLab member can offer the possibility of resolving the conflict in a satisfactory manner acceptable to both parties.
 + It is within the HackLab community interests to empower members to focus on solution orientated and respectful conflict resolution such that this Policy may not require invocation.
 + If you do not feel that you have the ability to implement any of the methods suggested for informal resolution but wish for an informal resolution, do not hesitate to seek out the assistance of a trusted fellow member or a member of the Board.
@@ -119,6 +120,7 @@ This Policy shall not be used as a means to silence dissent, discussion or the v
   * Conduct known or ought to have reasonably been known that the behaviour in question was unwelcome or inappropriate;
   * Unwanted and/or unauthorized intrusion into personal items or computer system(s);
   * Unwanted and/or unwelcomed remarks, jokes, taunts pertaining to prohibited ground(s).
+  
 3. Persons found to have committed harassment under this section to a member or guest of the HackLab are subject to disciplinary and/or remedial action as outlined in this policy.
 4. This section applies to all members and guests of the HackLab irrespective of the location of incident.
 
@@ -131,6 +133,7 @@ This Policy shall not be used as a means to silence dissent, discussion or the v
   * Threats of violence or reprisal;
   * Gestures or movements which would be reasonably be perceived as threatening;
   * Physical intimidation, posture and/or behaviour that is expected to reasonably cause the person to fear for their safety and/or security of person.
+  
 3. Persons found to have committed assault under this section to a member or guest of the HackLab are subject to disciplinary and/or remedial action as outlined in this policy.
 4. This section applies to all members and guests of the HackLab irrespective of the location of incident.
 
@@ -140,6 +143,7 @@ This Policy shall not be used as a means to silence dissent, discussion or the v
   * They believe the removal of the person is required to diffuse a severe situation and/or to prevent a violation of this policy; or
   * They have witnessed or believe in reasonable and good faith to have witnessed the person in violation of this policy; or
   * They have been harassed and/or assaulted by the person in contravention of this policy.
+  
 2. Anyone failing to vacate the HackLab premises upon instruction to do so over alleged or real violations of this Policy, will be considered in Trespass (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_).  In the unlikely event of this situation it is encouraged to contact a Peace Officer to attend and have the individual removed from the premises.  Additionally, please contact a Board member directly in person or by phone for assistance.
 
 ## Recourse
@@ -196,11 +200,13 @@ This Policy shall not be used as a means to silence dissent, discussion or the v
   * Suspension of Membership, with a term to be decided by Board majority or member committee recommendation.
   * Termination of Membership, with immediate effect.
   * Barred from any and all HackLab premises (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_) permanently or for a term to be determined by Board or member committee recommendation.
+  
 3. Guests found in violation of this Policy can be subject to any number of disciplinary and/or remedial actions including but not limited to
   * Be required to write a formal apology to the victim(s) of the violation.
   * Be required to cease and desist all current and future communication(s) and interaction with the victim(s) of the violation.
   * Be required to undertake _Ontario Human Rights 101 e-Learning_ in cases where a Human Rights contravention has occurred.
   * Barred from the HackLab premises (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_) permanently or for a term to be determined by Board or member committee recommendation.
+  
 4. Where a remedy has been imposed upon a person requiring them to carry out an action, they may be barred from the HackLab premises until they have carried out the required actions to the determining bodies’ satisfaction.
 5. Any and all remediation and/or disciplinary actions will be discussed with the victim(s) prior to being imposed.  The focus of this requirement is to ensure that the victim(s) is/are included in the remedial phase and to ensure that proper scope and impact of the violation are taken into account.
 
