@@ -25,10 +25,11 @@
 ## Terms and Definitions
 **HackLab (“HackLab Club Toronto”)**  
 Hacklab Club Toronto Inc.  A makerspace and Not-For-Profit Ontario corporation.  
+
 **Policy (“the Policy”)**  
 The Anti-Harassment Policy, HackLab Club Toronto Inc. This document and policy.  
+
 **Prohibited Ground(s)**  
-The following are considered prohibited grounds:
 + Age
 + Familial Status
 + Racial Background
@@ -39,19 +40,26 @@ The following are considered prohibited grounds:
 + Pardoned Conviction(s)
 + National and Ethnic Origin
 + Mental and Physical Disability
-+ Political Affiliation  
++ Political Affiliation
+
 **Community Standards**  
 Community standards are a set of local norms bounding acceptable conduct of a community and/or society.  While these norms may be itemized into a list there are sometimes behaviours and manners of conduct which escape itemization though still deemed to be unacceptable, inappropriate and/or damaging to an individual and/or their community.  The conduct and behaviour of a person should fall within the commonly accepted conventions of their community and/or society.  A common test of community standards can be said to be "I'll know it when I see it.".  
+
 **Member**  
 A member is defined as any member of HackLab Club Toronto in good standing.  
+
 **Guest**  
 Any visitor of HackLab; a person who is not a member of HackLab Club Toronto Inc.  
+
 **Random Selection**  
 A non-bias method of randomly selecting members.  One such proposed method is to select, in order, member entry from the premises entry logs (door log).  
+
 **Community**  
 Fellowship with others, as a result of sharing common attitudes, interests, and goals.  The membership base of the HackLab Club Toronto Inc.  
+
 **The Board (“Board of Directors”)**  
 The Board of Directors of HackLab Club Toronto Inc.  
+
 **Peace Officer**  
 Peace Officer; Police. Example: Toronto Police Service; 911.  
 
@@ -132,6 +140,48 @@ Any contravention of the _Ontario Human Rights Code (R.S.O. 1990, c. H.19)_ by a
   2. They believe the removal of the person is required to diffuse a severe situation and/or to prevent a violation of this policy; or
   3. They have witnessed or believe in reasonable and good faith to have witnessed the person in violation of this policy; or
   4. They have been harassed and/or assaulted by the person in contravention of this policy.
-2. Anyone failing to vacate the HackLab premises upon instruction to do so over alleged or real violations of this Policy, will be considered in Trespass (per Ontario - Trespass to Property Act (R.S.O. 1990, c. T.21)).  In the unlikely event of this situation it is encouraged to contact a Peace Officer to attend and have the individual removed from the premises.  Additionally, please contact a Board member directly in person or by phone for assistance.
+2. Anyone failing to vacate the HackLab premises upon instruction to do so over alleged or real violations of this Policy, will be considered in Trespass (per Ontario - _Trespass to Property Act (R.S.O. 1990, c. T.21)_).  In the unlikely event of this situation it is encouraged to contact a Peace Officer to attend and have the individual removed from the premises.  Additionally, please contact a Board member directly in person or by phone for assistance.
 
 ## Recourse
+Members may seek remedy to Policy violations using the following recommended chain of action:
+1. If it is appropriate, the member should tell the person whom is acting in an unacceptable manner that it is offensive and request that they immediately stop.
+2. If (a) is inappropriate to address directly or if the issue cannot be resolved to satisfaction, then the member should advise an Officer or Director of HackLab forthwith.
+3. The member will be asked to prepare a written complaint, outlining the nature of the allegations and any important details or facts; including the name(s) of the alleged harasser(s)/aggressor(s), any witnesses present, date(s) and locations of the incident(s).  This complaint is to be submitted to the Board of Directors by common means such by email to board@hacklab.to.
+4. Upon receipt of the complaint, the Board, in accordance with this Policy will begin an immediate investigation or convene a committee by random selection should the situation warrant it.
+5. The Board or Committee will exercise its discretion as to whether an internal investigation is warranted and to determine the scope of the investigation.
+6. Any such investigation being conducted must be conducted by an impartial manner by member(s) whom are not in conflict of interest with any aspect of the complaint or the subject(s) of the investigation.
+7. Any investigator, be it a delegate of the Board or convened committee, shall report to the Board upon completion of their investigation in a timely fashion.
+8. Action(s) shall then be carried out in the manners outlined in the respective sections of the Policy “RESOLUTION BY BOARD” or “RESOLUTION BY COMMITTEE” respective of the manner undertaken.
+
+## Redress
+1. Where remedial action is recommended, it shall be implemented as soon as reasonably possible after the conclusion of a thorough internal investigation.
+2. Depending on the circumstances, there may also be long-term initiatives, such as the development and implementation of Corporate and/or community wide education and/or training initiatives.
+
+## Protection from Reprisal
+1. Any member raising a concern relating to this policy, in good faith, will not be subject to any form of retaliation and/or reprisal for reporting their concern and will be protected from any reprisal.
+2. Threatening, intimidating or otherwise acting against a person for invoking this Policy and/or for participating in any related investigation process is strictly prohibited and they will be deemed to have violated this Policy.
+
+## Confidentiality
+1. All matters relating to harassment, sexual harassment, assault and sexual assault will be dealt with as confidentially as reasonably possible.
+2. A member’s identity, or the circumstances regarding any concern or complaint, will not be disclosed unless disclosure is necessary for the purposes of conducting an investigation or for taking disciplinary action.
+3. Members involved in any investigation or committee under this policy are required to protect and maintain confidentiality to the best of their ability.
+
+## Resolution by Board
+1. The Board is required to ensure that no conflict of interest exists at any point of the resolution process.
+2. If a member reasonably calls into question the impartiality or ability of a Director to participate the resolution process, that Director shall be encouraged to yield participation in the process at whole.
+3. The Board is required to conduct an impartial and thorough investigation before making a determination.
+
+## Resolution by Committee
+1. Members may be invited to participate in a committee to resolve violations of this Policy by the Board; a member may decline this request without providing a reason as it is entirely voluntary.
+2. Any member in conflict of interest must not participate and yield any invitation to participate in a resolution committee under this Policy.
+3. Committee members are required to conduct an impartial and thorough investigation before making a determination.
+4. The Board may optionally modify committee disciplinary recommendations only if a conflict of interest does not exist.
+5. If a committee was appointed to resolve a violation it will investigate and communicate their findings and recommendations to the Board in a timely fashion.
+
+## Misuse of Anti-Harassment Policy
+_The Anti-Harassment Policy is a powerful and broad policy designed to protect individual rights, dignity, safety and security of person.  Due to the wide reaching scope of the Policy and the open and diverse nature of the HackLab membership base, it is important to stress that peaceful resolution be reached in a civil manner befitting community standards.  Abuse of process damages the community and does a disservice to those who have been legitimately wronged and harmed._
+1. The Policy must not be used as a means to censor or silence civil discourse and/or discussion so long as community standards are observed.
+2. Except under extraordinary circumstances to be determined by community standards, the goal of resulting remediation and disciplinary action should be focused on education, communication and understanding; notwithstanding gross violations of the Policy.
+3. Obvious abuse of this Policy in and of itself shall be considered harassment and thusly any member found to be abusing the Policy shall be deemed in violation of the Policy.  Determination of Policy abuse shall be determined by Board or member committee consensus.
+
+## Violation of the Anti-Harassment Policy
